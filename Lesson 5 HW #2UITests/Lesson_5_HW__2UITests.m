@@ -1,18 +1,18 @@
 //
-//  Lesson_7_HW_2UITests.m
-//  Lesson 7 HW 2UITests
+//  Lesson_5_HW__2UITests.m
+//  Lesson 5 HW #2UITests
 //
-//  Created by Alex on 16.12.15.
+//  Created by Alex on 14.12.15.
 //  Copyright © 2015 Alex. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface Lesson_7_HW_2UITests : XCTestCase
+@interface Lesson_5_HW__2UITests : XCTestCase
 
 @end
 
-@implementation Lesson_7_HW_2UITests
+@implementation Lesson_5_HW__2UITests
 
 - (void)setUp {
     [super setUp];

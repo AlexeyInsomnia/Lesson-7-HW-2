@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Lesson 7 HW 2.xcscheme</key>
+		<key>Lesson 5 HW #2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FAF971FB1C2162320039DCE6</key>
+		<key>FAE845881C1F1CAB0080F15F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FAF972141C2162320039DCE6</key>
+		<key>FAE845A11C1F1CAB0080F15F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FAF9721F1C2162320039DCE6</key>
+		<key>FAE845AC1C1F1CAB0080F15F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
